@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ErennBas/employee-watcher-admin#readme",
   "devDependencies": {
     "electron": "^20.1.3"
+  },
+  "dependencies": {
+    "ffplay": "^1.1.0"
   }
 }

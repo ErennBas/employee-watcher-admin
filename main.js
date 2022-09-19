@@ -1,11 +1,13 @@
-const electron = require("electron");
-const url = require("url");
-const path = require("path");
+// const electron = require("electron");
+// const url = require("url");
+// const path = require("path");
 
-const { app } = electron;
+// const { app } = electron;
 
-let mainwindow;
+// let mainwindow;
 
-app.on("ready", () => {
-    alert("test");
-});
+// app.on("ready", () => {
+//     alert("test");
+// });
+
+console.log(Buffer.from("Hello World").toString('base64'));
